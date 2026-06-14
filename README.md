@@ -36,9 +36,9 @@ Object-Oriented Programming (Java)
 
 ## Technical Skills
 
-Algorithm Design
-Evolutionary Optimization
-Heuristic Search Methods
+Algorithm Design,
+Evolutionary Optimization,
+Heuristic Search Methods,
 Software Development
 
 ## How It Works
